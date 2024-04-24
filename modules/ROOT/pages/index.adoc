@@ -30,6 +30,7 @@ MuleSoft Government Cloud supports Mule runtime engine v3.9 and later, with some
 
 ** Mule 3: v1.12.0 and later (supported only for cloud deployments)
 ** Mule 4: v2.2.0 and later
+** Mule 4.6
 
 Although Anypoint Studio is not part of Government Cloud, you can use Anypoint Studio offline to build applications and then manually deploy them to Government Cloud.
 

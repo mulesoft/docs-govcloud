@@ -37,5 +37,6 @@ The following Mule versions are supported for standalone Mule support in MuleSof
 * 4.1.x
 * 4.2.x
 * 4.3.x
+* 4.6.x
 
 To get started, refer to the xref:runtime-manager::index.adoc[Anypoint Runtime Manager] documentation.
