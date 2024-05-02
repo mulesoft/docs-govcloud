@@ -109,7 +109,7 @@ include::mq::partial$mq-in-govcloud.adoc[tag=mqSupportInGovCloud]
 |xref:api-manager::latest-overview-concept.adoc[API Manager] |Manage, govern, and secure the APIs you deploy to Anypoint Platform.
 |xref:runtime-manager::index.adoc[Runtime Manager]|Deploy, manage, and monitor your Mule applications in a sandbox, staging, or production environment from one central location, whether your apps are deployed in the cloud or on-premises.
 |xref:runtime-manager::cloudhub.adoc[CloudHub] |Deploy sophisticated cross-cloud integration applications in the cloud, create new APIs on top of existing data sources, integrate on-premises applications with cloud services, and much more.
-|xref:monitoring::index.adoc[Anypoint Monitoring] |Aggregate and map metrics across systems,and configure dashboards and alerts.
+|xref:monitoring::index.adoc[Anypoint Monitoring] |Aggregate and map metrics across systems, and configure dashboards and alerts.
 |xref:visualizer::index.adoc[Anypoint Visualizer] |Explore your application network for architectural review, troubleshooting, and policy compliance.
 |===
 
