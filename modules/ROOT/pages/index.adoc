@@ -32,6 +32,8 @@ MuleSoft Government Cloud supports Mule runtime engine v3.9 and later, with some
 ** Mule 4: v2.2.0 and later
 ** Mule 4.6
 
+MuleSoft Government Cloud supports Java 17. For more information on Java support, see xref:general::java-support.adoc[].
+
 Although Anypoint Studio is not part of Government Cloud, you can use Anypoint Studio offline to build applications and then manually deploy them to Government Cloud.
 
 [[design-api-specs]]
