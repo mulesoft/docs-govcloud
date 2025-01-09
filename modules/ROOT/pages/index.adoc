@@ -102,6 +102,9 @@ See the xref:api-community-manager::index.adoc[Community Manager documentation] 
 |Feature |Description
 |xref:access-management::index.adoc[Anypoint Access Management] a|Create Anypoint Platform accounts, configure external identity, and configure access and permissions.
 
+[NOTE]
+include::access-management::partial$include-gov-cloud-note.adoc[tag=govcloud]
+
 |xref:mq::index.adoc[Anypoint MQ] | Send messages between different applications or components within an application.
 
 [NOTE]
